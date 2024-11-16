@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 import math
+import numpy as np
 
 # Load the image in grayscale
 image = cv2.imread("document.png", cv2.IMREAD_GRAYSCALE)
